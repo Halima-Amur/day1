@@ -1,0 +1,15 @@
+C:\Users\Training\Desktop\Halima\project1.solution\Halima\bin\Debug\net6.0\Halima.exe
+C:\Users\Training\Desktop\Halima\project1.solution\Halima\bin\Debug\net6.0\Halima.deps.json
+C:\Users\Training\Desktop\Halima\project1.solution\Halima\bin\Debug\net6.0\Halima.runtimeconfig.json
+C:\Users\Training\Desktop\Halima\project1.solution\Halima\bin\Debug\net6.0\Halima.dll
+C:\Users\Training\Desktop\Halima\project1.solution\Halima\bin\Debug\net6.0\Halima.pdb
+C:\Users\Training\Desktop\Halima\project1.solution\Halima\obj\Debug\net6.0\Halima.csproj.AssemblyReference.cache
+C:\Users\Training\Desktop\Halima\project1.solution\Halima\obj\Debug\net6.0\Halima.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Training\Desktop\Halima\project1.solution\Halima\obj\Debug\net6.0\Halima.AssemblyInfoInputs.cache
+C:\Users\Training\Desktop\Halima\project1.solution\Halima\obj\Debug\net6.0\Halima.AssemblyInfo.cs
+C:\Users\Training\Desktop\Halima\project1.solution\Halima\obj\Debug\net6.0\Halima.csproj.CoreCompileInputs.cache
+C:\Users\Training\Desktop\Halima\project1.solution\Halima\obj\Debug\net6.0\Halima.dll
+C:\Users\Training\Desktop\Halima\project1.solution\Halima\obj\Debug\net6.0\refint\Halima.dll
+C:\Users\Training\Desktop\Halima\project1.solution\Halima\obj\Debug\net6.0\Halima.pdb
+C:\Users\Training\Desktop\Halima\project1.solution\Halima\obj\Debug\net6.0\Halima.genruntimeconfig.cache
+C:\Users\Training\Desktop\Halima\project1.solution\Halima\obj\Debug\net6.0\ref\Halima.dll
